@@ -4,6 +4,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * @author Nils Schuette via frontendtest.org
  */
+
+/* comment by rajeev*/
 public class RunTest {
     static WebDriver webDriver;
     /**
